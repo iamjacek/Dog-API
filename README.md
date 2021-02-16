@@ -12,3 +12,5 @@ Simple page to pull some data from website above and print beautiful dogs on the
 
 1. Go to live, link above or
 2. Download and start index.html locally.
+
+Created to learn basic API request.
